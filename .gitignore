@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Log files
+logs
+*.log
+
+# Environment variables
+.env
+
+# npm-debug.log
+npm-debug.log*
+
+# Yarn integrity file
+.yarn-integrity
+
+# PM2 logs
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build output
+dist/
